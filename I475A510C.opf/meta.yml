@@ -1,0 +1,18 @@
+id: I475A510C
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:30:05.687655
+last_modified: 2023-01-04 11:30:05.687670
+source_metadata:
+  collections:
+  - Butön Rinchen Drup Series
+  - Works of Tibetan Masters
+bases:
+  9A7D:
+    title: Advice in Three Sets of Three
+    base_file: 9A7D.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
